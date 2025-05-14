@@ -1,6 +1,6 @@
 the conditions for running my simple program
 
-pip install uvicorn httpie
+pip install requirements
 
 launch: uvicorn main:app --reload
 
