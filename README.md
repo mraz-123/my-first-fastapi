@@ -1,6 +1,6 @@
 the conditions for running my simple program
 
-pip install requirements
+pip install -r requirements.txt
 
 launch: uvicorn main:app --reload
 
